@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1005329647391",
+    "project_id": "bitbrothers-efb5a",
+    "storage_bucket": "bitbrothers-efb5a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1005329647391:android:ce1905ff346cd81ff8522a",
+        "android_client_info": {
+          "package_name": "com.rohit.bitbrothers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1005329647391-4o83s5q9sgk9dgacdg42dcm0io16cf0b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6ZPwR5NzICFD4ROS9dbFOJJ8IYXwd3fY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1005329647391-4o83s5q9sgk9dgacdg42dcm0io16cf0b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
